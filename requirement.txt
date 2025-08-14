@@ -1,0 +1,9 @@
+streamlit
+pandas
+fastapi
+selenium
+beautifulsoup4
+plotly
+webdriver-manager
+
+

@@ -1,0 +1,27 @@
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE and Editor Directories
+.idea/
+.vscode/
+*.swp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Data Files
+# It's good practice to not commit large data files to Git.
+# Add your raw and processed data files here if they are large.
+# For this assignment, you might choose to commit the small processed CSV.
+# If so, you can comment out the line below.
+data/*.csv
+
+/Virtual
+# Streamlit
+.streamlit/
