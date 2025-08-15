@@ -53,6 +53,24 @@ Vahan_Dashboard/
      cd vahan_dashboard
      streamlit run dashboard.py
 
+# ScreenShots
+
+## Filter Data
+![Dashboard Overview](assets/screenshots/1.png)
+
+## Dashboard Overview
+![Dashboard Overview](assets/screenshots/2.png)
+
+## Vehical Insights
+![Dashboard Overview](assets/screenshots/3.png)
+
+## Manufacturer Analysis
+![Dashboard Overview](assets/screenshots/4.png)
+
+
+
+
+
 📊 Usage
 
 Open the app in your browser.
@@ -76,7 +94,10 @@ For major changes, please open an issue first to discuss what you would like to 
 
 This project is licensed under the MIT License.
 
-       
+
+📩 Contact
+For any queries, reach out at dhruvikmodi23@gmail.com or create an issue in the repository.
     
  
+
 
